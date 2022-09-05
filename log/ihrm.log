@@ -1,0 +1,18 @@
+2022-09-05 03:58:41,951 INFO [run_suite.py(<module>:26)] - 测试套件实例，创建成功！
+2022-09-05 03:58:42,077 INFO [test_ihrm_login_params.py(test_login:30)] - get sms code response = {'success': True, 'code': 10000, 'data': '21539d42-4249-47e9-aa3e-c809223b9112', 'message': '登录成功'}
+2022-09-05 03:58:42,186 INFO [test_ihrm_login_params.py(test_login:30)] - get sms code response = {'success': False, 'code': 10000, 'data': None, 'message': '用户名或密码不能为空'}
+2022-09-05 03:58:42,298 INFO [test_ihrm_login_params.py(test_login:30)] - get sms code response = {'success': False, 'code': 10000, 'data': None, 'message': '用户名或密码错误'}
+2022-09-05 03:58:42,421 INFO [test_ihrm_login_params.py(test_login:30)] - get sms code response = {'success': True, 'code': 10000, 'data': '413f0831-b0a6-49c2-93d5-6c393e907906', 'message': '登录成功'}
+2022-09-05 03:58:42,525 INFO [test_ihrm_login_params.py(test_login:30)] - get sms code response = {'success': False, 'code': 10000, 'data': None, 'message': '用户名或密码不能为空'}
+2022-09-05 03:58:42,637 INFO [test_ihrm_login_params.py(test_login:30)] - get sms code response = {'success': False, 'code': 10000, 'data': None, 'message': '用户名或密码不能为空'}
+2022-09-05 03:58:42,778 INFO [test_ihrm_login_params.py(test_login:30)] - get sms code response = {'success': False, 'code': 10000, 'data': None, 'message': '用户名或密码不能为空'}
+2022-09-05 03:58:43,314 INFO [run_suite.py(<module>:38)] - ihrm.html 测试报告 生成 成功！
+2022-09-05 22:09:46,228 INFO [run_suite.py(<module>:26)] - 测试套件实例，创建成功！
+2022-09-05 22:09:46,552 INFO [test_ihrm_login_params.py(test_login:30)] - get sms code response = {'success': True, 'code': 10000, 'data': 'c10d5bbe-7ea2-4034-9f83-3789430242b2', 'message': '登录成功'}
+2022-09-05 22:09:46,679 INFO [test_ihrm_login_params.py(test_login:30)] - get sms code response = {'success': False, 'code': 10000, 'data': None, 'message': '用户名或密码不能为空'}
+2022-09-05 22:09:46,813 INFO [test_ihrm_login_params.py(test_login:30)] - get sms code response = {'success': False, 'code': 10000, 'data': None, 'message': '用户名或密码错误'}
+2022-09-05 22:09:46,950 INFO [test_ihrm_login_params.py(test_login:30)] - get sms code response = {'success': True, 'code': 10000, 'data': '876f9f8e-73ee-4a84-a3f2-e6fb777802ca', 'message': '登录成功'}
+2022-09-05 22:09:47,081 INFO [test_ihrm_login_params.py(test_login:30)] - get sms code response = {'success': False, 'code': 10000, 'data': None, 'message': '用户名或密码不能为空'}
+2022-09-05 22:09:47,199 INFO [test_ihrm_login_params.py(test_login:30)] - get sms code response = {'success': False, 'code': 10000, 'data': None, 'message': '用户名或密码不能为空'}
+2022-09-05 22:09:47,321 INFO [test_ihrm_login_params.py(test_login:30)] - get sms code response = {'success': False, 'code': 10000, 'data': None, 'message': '用户名或密码不能为空'}
+2022-09-05 22:09:47,876 INFO [run_suite.py(<module>:38)] - ihrm.html 测试报告 生成 成功！

@@ -1,0 +1,50 @@
+[
+  {
+    "desc": "必选参数",
+    "json_data": {
+    "username": "女娲接4",
+    "mobile": "13959938002",
+    "formOfEmployment": 1,
+    "workNumber": "251315",
+    "departmentName": "总裁办",
+    "timeOfEntry": "2022-08-20T16:00:00.000Z",
+    "correctionTime": "2022-08-24T16:00:00.000Z"
+},
+    "stauts_code": 200,
+    "success": true,
+    "code": 10000,
+    "message": "员工新增成功"
+  },
+  {
+    "desc": "组合参数",
+    "json_data": {
+    "username": "女娲接4",
+    "mobile": "13959938002",
+    "formOfEmployment": 1,
+    "workNumber": "251315",
+    "departmentName": "总裁办",
+    "timeOfEntry": "2022-08-20T16:00:00.000Z",
+    "correctionTime": "2022-08-24T16:00:00.000Z"
+},
+    "stauts_code": 200,
+    "success": true,
+    "code": 10000,
+    "message": "员工新增成功"
+  },
+  {
+    "desc": "全部参数",
+    "json_data": {
+    "username": "女娲接4",
+    "mobile": "13959938002",
+    "formOfEmployment": 1,
+    "workNumber": "251315",
+    "departmentName": "总裁办",
+    "timeOfEntry": "2022-08-20T16:00:00.000Z",
+    "correctionTime": "2022-08-24T16:00:00.000Z"
+},
+    "stauts_code": 200,
+    "success": true,
+    "code": 10000,
+    "message": "员工新增成功"
+  }
+]
